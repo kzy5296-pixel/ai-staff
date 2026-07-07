@@ -52,3 +52,8 @@
 - **判断内容**：Amphetamineを使用
 - **背景・理由**：作業中にスリープしてCoworkセッションが切れる問題が発生
 - **振り返り**：解決済み
+
+### 2026-07-07 — Gist自動更新を廃止
+- **判断内容**：sedori.mdのGist同期（毎晩23:47のcron + scripts/update_gist.sh）を廃止
+- **背景・理由**：macOSの権限でcronが失敗し続けていた上、ai-staffリポジトリの公開によりGitHub上でsedori.mdを直接見られるようになり、Gistの役目が終わったため
+- **後始末**：cron解除・.gist_config削除（Gist用トークンはGitHub設定から失効させる）。Gist本体は消さず放置（更新が止まるだけ）

@@ -92,7 +92,7 @@
 ### 筋トレ・アプリ担当の特別ルール
 - `knowledge/training.md` の山本義徳メソッドを参照してトレーニングアドバイス
 - `knowledge/workout_app.md` のアプリ開発状況を把握した上で提案
-- workout-appのGitコミット要約（`logs/weekly/app-update-YYYY-MM-DD.md`）も参照
+- workout-appのGitコミット要約（`logs/sessions/app-update-YYYY-MM-DD.md`）も参照
 
 ### セッションログの引き継ぎ
 - `logs/sessions/` に過去セッションの要約が保存される
