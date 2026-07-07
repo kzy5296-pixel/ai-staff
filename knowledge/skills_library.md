@@ -15,12 +15,12 @@
 
 ### 📦 物流トラブル対応（FBA紛失・破損・配送クレーム）
 - **skillsmp**: https://skillsmp.com/ja/skills/affaan-m-ecc-logistics-exception-management-md
-- **GitHub raw**: https://raw.githubusercontent.com/affaan-m/ECC/main/logistics-exception-management.md
+- **GitHub raw**: https://raw.githubusercontent.com/affaan-m/ECC/main/docs/ja-JP/skills/logistics-exception-management/SKILL.md （日本語版・2026-07-07 URL更新）
 - **使いどき**: FBA倉庫の紛失・破損チェック、配送事故のキャリアとの交渉、クレーム手続き
 
 ### 🔍 市場リサーチ（競合分析・価格調査）
 - **skillsmp**: https://skillsmp.com/ja/skills/affaan-m-ecc-market-research-md
-- **GitHub raw**: https://raw.githubusercontent.com/affaan-m/ECC/main/market-research.md
+- **GitHub raw**: https://raw.githubusercontent.com/affaan-m/ECC/main/.agents/skills/market-research/SKILL.md （2026-07-07 URL更新）
 - **使いどき**: 仕入れ候補商品の市場調査、Amazon競合チェック、価格トレンド分析
 
 ### 💬 Discord検索・アーカイブ（MASK Discord巡回）
@@ -34,7 +34,7 @@
 
 ### 📥 受信トレイ自動仕分け
 - **skillsmp**: https://skillsmp.com/ja/skills/openclaw-openclaw-agents-skills-taskflow-inbox-triage-skill-md
-- **GitHub raw**: https://raw.githubusercontent.com/openclaw/openclaw/main/.agents/skills/taskflow-inbox-triage/SKILL.md
+- **GitHub raw**: https://raw.githubusercontent.com/openclaw/openclaw/main/skills/taskflow-inbox-triage/SKILL.md （2026-07-07 URL更新）
 - **使いどき**: Gmailの大量メール整理、返信待ちメールの追跡、優先度振り分け
 
 ---
@@ -43,7 +43,7 @@
 
 ### ✅ 開発ブランチ完了フロー
 - **skillsmp**: https://skillsmp.com/ja/skills/obra-superpowers-finishing-a-development-branch-md
-- **GitHub raw**: https://raw.githubusercontent.com/obra/superpowers/main/finishing-a-development-branch.md
+- **GitHub raw**: https://raw.githubusercontent.com/obra/superpowers/main/skills/finishing-a-development-branch/SKILL.md （2026-07-07 URL更新）
 - **使いどき**: workout-appの機能追加後にmerge/commit/cleanup方針を整理するとき
 
 ---
@@ -53,8 +53,8 @@
 > 文体・書き方のルールは `knowledge/writing.md`（Fable 5の書き方を言語化したスタイルガイド）を必ず先に読むこと。
 
 ### 📝 記事をビートで組み立てる
-- **skillsmp**: https://skillsmp.com/ja/skills/mattpocock-skills-writing-beats-md
-- **GitHub raw**: https://raw.githubusercontent.com/mattpocock/skills/main/writing-beats.md
+- **ローカル保存版（推奨）**: `knowledge/writing_beats.md` — 元リポジトリの移動でリンク切れが起きたため2026-07-07にローカル保存。URLでなくこのファイルを読めばよい
+- **元ネタ**: https://github.com/mattpocock/skills （skills/in-progress/writing-beats/）
 - **使いどき**: リベシティのノウハウ図書館記事を書くとき、素材からストーリー構成を作る
 
 ### 🖊️ Content Research Writer（記事執筆一気通貫）

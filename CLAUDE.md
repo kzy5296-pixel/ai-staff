@@ -103,27 +103,10 @@
 
 ## ファイル構成
 
-```
-ai-staff/
-├── CLAUDE.md                   ← このファイル（起動時自動読込）
-├── profile/
-│   ├── owner.md                ← カズヤさんのプロフィール
-│   └── persona.md              ← AI社員の人格定義
-├── knowledge/
-│   ├── sedori.md               ← せどりノウハウ
-│   ├── docomo.md               ← ドコモ業務
-│   ├── learning.md             ← 学習・調査メモ
-│   └── general.md              ← 雑談・汎用
-├── logs/
-│   ├── handoff.md              ← 引き継ぎメモ（毎回上書き・3行以内）
-│   ├── daily/                  ← 旧・日次ログ（アーカイブ。読み込まない）
-│   └── decisions.md            ← 重要判断の履歴
-├── tasks/
-│   ├── todo.md                 ← 進行中タスク
-│   ├── scheduled.md            ← 予定・スケジュール
-│   └── done.md                 ← 完了アーカイブ
-└── growth/
-    ├── feedback.md             ← フィードバック蓄積
-    ├── preferences.md          ← 学習した好み
-    └── skills.md               ← 身につけたスキル
-```
+詳細なツリー図は置かない（実物とズレて古地図になるため。2026-07-07廃止）。構成は `ls` で実物を見る。フォルダの役割だけ覚えること：
+
+- `profile/` — カズヤさんのプロフィールとAI社員の人格
+- `knowledge/` — 分野別ノウハウ（せどり・ドコモ・筋トレ・アプリ・文章術ほか）
+- `logs/` — 記録類（handoff=引き継ぎ、decisions=判断履歴、weekly/sessions=自動レポート、daily=旧アーカイブ）
+- `tasks/` — todo・scheduled（予定と自動化の台帳）・done
+- `growth/` — 学習した好み・フィードバック・スキル
